@@ -34,8 +34,10 @@ WAIT:       JNB TF1, WAIT
       SJMP AGAIN          
 END
 ```
+<img width="1919" height="1199" alt="Screenshot 2025-10-30 213143" src="https://github.com/user-attachments/assets/654f8f04-3f39-4eca-ab40-d705a351ed68" />
+
 ## OUTPUT
-<img width="1262" height="728" alt="Screenshot 2025-10-25 124943" src="https://github.com/user-attachments/assets/84a4bef2-fcde-4fab-b7a6-5409dad8c576" />
+<img width="1919" height="1195" alt="Screenshot 2025-10-30 213818" src="https://github.com/user-attachments/assets/57c8a3a9-d7e9-433d-945a-530375af8de4" />
 
 
 ## RESULT
